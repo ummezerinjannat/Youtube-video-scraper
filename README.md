@@ -7,15 +7,13 @@ This Python application provides a graphical user interface (GUI) for fetching a
 - **Display Information**: Shows video title, views, duration, description, and ratings (if available) in the GUI.
 - **Error Handling**: Displays error messages if fetching video details fails due to invalid URL or network issues.
 #
-# Result
-![Screenshot 2024-06-19 181515](https://github.com/whitehatboy005/Youtube-video-scrap-Details/assets/147156726/589c0560-de94-484d-9ad4-3098de98da94)
 
 ## ⚙️ Installation
 
 ## Clone the Repository
 ```bash
-git clone https://github.com/whitehatboy005/Youtube-video-scrap-Details.git
-cd Youtube-video-scrap-Details
+git clone https://github.com/ummezerinjannat/Youtube-video-scraper.git
+cd Youtube-video-scraper
 ```
 ## Install Dependencies
 ```bash
